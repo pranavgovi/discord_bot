@@ -1,4 +1,5 @@
-# discord_bot
+# discord_bot_using python
+
 It uses discord module.
 This bot is designed to greet two discord users and to provide them a pick up line when requested.
 Parse hub tool is used to scrap pick up lines online and it is sent through api and gets stored as a list. This bot is responds to discord users and provides them with a pick up line whenever it senses phrases like pick up,love or romance.
